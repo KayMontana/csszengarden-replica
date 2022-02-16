@@ -7,13 +7,13 @@ h1 {
     color: white;
     font-size: 100px;
     margin-left: 65px;
-    margin-right: 65px;
+    margin-right: 10px;
     margin-top: 55px;
-    margin-bottom: 70px;
+    margin-bottom: 10px;
     padding-left: 55px;
     padding-top: 180px;
     padding-right: 585px;
-    padding-bottom: 700px;
+    padding-bottom: 2445px;
     font-weight: 1100;
     letter-spacing: -3px;
     position: absolute;
@@ -31,7 +31,7 @@ h3 {
     padding-bottom: 15px;
     padding-left: 25px;
     padding-right: 25px;
-    background-color: rgb(250, 60, 60);
+    background-color: rgb(233, 80, 80);
     color: white;
     font-weight: 100;
     font-size: 24px;
@@ -53,8 +53,8 @@ div {
     background-color:rgba(22, 23, 49, 0.74);
     margin-left: 1010px;
     margin-top: -10px;
-    padding-right: 405px;
-    padding-bottom: 7000px;
+    padding-right: 340px;
+    padding-bottom: 3100px;
     color: rgba(0, 0, 0, 0);
 }
 
@@ -64,7 +64,7 @@ div {
     padding-top: 90px;
     padding-left: 65px;
     padding-right: 116px;
-    padding-bottom: 500px;
+    padding-bottom: 1000px;
     background-color: rgba(255, 253, 129, 0.877);
     color: rgb(22, 23, 49);
     font-family: "Roboto";
@@ -101,4 +101,145 @@ a:hover {
 
 span {
     background-color: rgba(128, 128, 128, 0);
+}
+
+.arc {
+    background-color: rgba(240, 248, 255, 0);
+    margin-top: 575px;
+   
+}
+
+.arcp {
+    margin-top: 720px;
+}
+
+.res {
+    background-color: rgba(240, 248, 255, 0);
+    margin-top: 765px;
+}
+
+.resp {
+    margin-top: 910px;
+}
+
+.blue {
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 585px;
+    margin-left: 123px;
+    color: white;
+    font-weight: 100;
+    font-size: 19px;
+    letter-spacing: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    padding-bottom: 35px;
+    border-bottom-width: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.html {
+    color: white;
+    margin-top: 725px;
+    border: none;
+}
+
+.white {
+    color: white;
+}
+
+.light {
+    background-color: rgba(255, 255, 255, 0.959);
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 865px;
+    margin-left: 0px;
+    padding-left: 155px;
+    padding-bottom: 290px;
+    padding-right: 320px;
+    padding-top: 75px;
+}
+
+.lightp {
+    margin-top: 1000px;
+    margin-left: 92px;
+}
+
+.part {
+    background-color: rgb(233, 80, 80);
+    margin-top: 1380px;
+    margin-left: 735px;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 485px;
+}
+
+.partp {
+    color: white;
+    padding-top: 510px;
+    margin-left: 730px;
+}
+
+.req {
+    margin-top: 1975px;
+    margin-left: 485px;
+    padding-right: 555px;
+    padding-left: 60px;
+    padding-bottom: 695px;
+}
+
+.reqp {
+    color: black;
+    margin-top: 2110px;
+    margin-left: 480px;
+}
+
+.so {
+    margin-top: 1380px;
+    color: white;
+    background-color: transparent;
+    padding-left: 190px;
+}
+
+.sop {
+    padding-top: 515px;
+    color: white;
+    margin-left: 128px;
+}
+
+.ben {
+    margin-top: 2105px;
+    padding-right: 175px;
+    padding-left: 60px;
+    margin-left: 127px;
+    padding-bottom: 330px;
+}
+
+.benp {
+    margin-top: 2235px;
+    padding-left: 95px;
+}
+
+.by {
+    margin-top: 2615px;
+    margin-left: 545px;
+    color: black;
+    border-bottom: none;
+    border-top-color: red;
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 40px;
+}
+
+.langp {
+    margin-top: 2780px;
+    margin-left: 160px;
+    padding: 20px;
+    padding-left: 58px;
+    padding-right: 295px;
+    background-color: rgba(255, 253, 129, 0.877);
+    color: transparent;
+
 }
